@@ -1,5 +1,6 @@
 DockSAP-Secure Digital Case Management System
 
+
 purpose:
 Academic project to digitize law enforcement case files and reduce operational data risks vs paper systems
 
@@ -16,6 +17,10 @@ popia aligned,designed principles for confedintiality+intergrity
 
 My Role
 Analyzed security risks,designed  access controls,implemented authentication features.focus was risk mitigation and data protection.
+
+
+
+
 
 
 What the Project is all about
